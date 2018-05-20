@@ -1,6 +1,6 @@
 <html>
 <head >
-    <title>简易增删改查</title>
+    <title>简易增删改查3.0</title>
     <meta charset="utf-8">
     <style>
         .username.ng-valid {
